@@ -12,24 +12,24 @@ Certainly! Below is a textual representation of a flowchart for the Internationa
 +-------------------+
 |       Admin       |
 +-------------------+
-| - Set Roles       |
-| - Award Scholarships|
+| Set Roles         |
+| Award Scholarships|
 +-------------------+
         |
         v
 +-------------------+
 |       School      |
 +-------------------+
-| - Issue Certificates |
+|Issue Certificates |
 +-------------------+
         |
         v
 +-------------------+
 |      Student      |
 +-------------------+
-| - Receive Certificates |
-| - Receive Scholarships |
-| - Check Status     |
+|Receive Certificate|
+|Receive Scholarship|
+|Check Status       |
 +-------------------+
 ```
 

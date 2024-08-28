@@ -1,5 +1,7 @@
 # International School Certification and Scholarship Smart Contract
 
+![Screenshot ](https://github.com/user-attachments/assets/e7d080ca-a677-448f-aca4-94f3541da106)
+
 ## Vision
 
 The **International School Certification and Scholarship** smart contract aims to streamline the issuance of educational certificates and management of scholarships. By leveraging blockchain technology, the contract ensures transparency, security, and efficiency in validating student achievements and awarding financial aid.

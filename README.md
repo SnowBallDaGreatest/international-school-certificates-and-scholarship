@@ -100,7 +100,7 @@ For inquiries, contributions, or support, please contact:
 
 - **Name**: [Syeda Nihad Omar]
 - **Email**: [syedanihadomar@gmail.com]
-- **GitHub**: [https://github.com/snowballdagreatest](https://github.com/snowballdagreatest)
+- **GitHub**: [https://github.com/snowballdagreatest](https://github.com/SnowBallDaGreatest)
 
 Feel free to open issues or submit pull requests on GitHub. Contributions and feedback are welcome!
 
